@@ -1,9 +1,9 @@
 {
-  "name": "persimmon-solutions",
+  "name": "kwelio",
   "version": "1.0.0",
   "description": "Web & Software Development Company",
   "main": "index.js",
-  "homepage": "https://zeitlosein.github.io/persimmon-solutions",
+  "homepage": "https://zeitlosein.github.io/kwelio",
   "scripts": {
     "deploy": "gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
